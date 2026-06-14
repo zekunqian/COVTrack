@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>COVTrack</h1>
-
-<p><b>Continuous Open-Vocabulary Tracking via Adaptive Multi-Cue Fusion</b></p>
+<h1>COVTrack: Continuous Open-Vocabulary Tracking via Adaptive Multi-Cue Fusion</h1>
 
 <p>
   <b>ICCV 2025</b> &nbsp; | &nbsp;
