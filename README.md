@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-  <img src="docs/mcf_framework.png" alt="COVTrack adaptive multi-cue fusion framework" width="96%">
+  <img src="docs/mcf_framework2.png" alt="COVTrack adaptive multi-cue fusion framework" width="96%">
   <br>
   <sub>Adaptive multi-cue fusion for continuous open-vocabulary multi-object tracking.</sub>
 </p>
